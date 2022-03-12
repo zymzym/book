@@ -1,5 +1,9 @@
 # 函数
 
+## 指定函数参数
+
+{% embed url="https://blog.csdn.net/qq_42327755/article/details/87196150" %}
+
 ## 内置函数
 
 {% embed url="https://docs.python.org/zh-cn/3/library/functions.html" %}
